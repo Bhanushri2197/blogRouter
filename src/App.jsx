@@ -25,7 +25,7 @@ function App() {
     {
       id : 3,
       courseTitle : ' Python Full Stack Development',
-      img : "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg"
+      img : "https://www.guvi.in/blog/wp-content/uploads/2024/08/Data-Science-vs-Computer-Science.webp"
     }
   ]
 
@@ -38,12 +38,12 @@ function App() {
     {
       id : 5,
       courseTitle : ' Data Engineering Course with Bigdata and Hadoop',
-      img : "https://www.guvi.in/blog/wp-content/uploads/2024/07/Benefits-of-Data-Science.webp"
+      img : "https://www.guvi.in/blog/wp-content/uploads/2023/11/Devops-best-practices.png"
     },
     {
       id :6,
       courseTitle :'Advanced Cloud Computing with Microsoft Azure course',
-      img : 'https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science.png'
+      img : 'https://static.guvi.in/blog/zenThumbnail/cloud-computing.webp'
     }
   ]
   const cyberSecurity = [
@@ -55,7 +55,7 @@ function App() {
     {
       id : 8,
       courseTitle : ' Cybersecurity Vs Ethical Hacking: Intermediate',
-      img : "https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif"
+      img : "https://static.guvi.in/course-thumbnail/webps/az900english.webp"
     },
     {
       id : 9,
