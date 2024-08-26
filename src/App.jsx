@@ -25,7 +25,7 @@ function App() {
     {
       id : 3,
       courseTitle : ' Python Full Stack Development',
-      img : "https://static.guvi.in/blog/zenThumbnail/mern-fsd.webp"
+      img : "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg"
     }
   ]
 
@@ -38,7 +38,7 @@ function App() {
     {
       id : 5,
       courseTitle : ' Data Engineering Course with Bigdata and Hadoop',
-      img : "https://static.guvi.in/blog/zenThumbnail/mern-fsd.webp"
+      img : "https://www.guvi.in/blog/wp-content/uploads/2024/07/Benefits-of-Data-Science.webp"
     },
     {
       id :6,
@@ -80,6 +80,7 @@ function App() {
     <>
         <BrowserRouter>
           <NavBar/>
+          <div className="courseBody">
           <Routes>
                <Route index path='/' element={<CourseList
                  fullStacks = {fullStacks}
@@ -92,6 +93,8 @@ function App() {
                <Route path='/cyber-security' element={<CyberSecurity cyberSecurity={cyberSecurity}/>} />
                <Route path='/career' element={<Career career={career}/>} />
           </Routes>
+          </div>
+     
         </BrowserRouter>
   
     </>

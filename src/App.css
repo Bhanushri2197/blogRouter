@@ -13,6 +13,35 @@
   border-bottom: 3px solid transparent;
 }
 .navbar .nav-link.active,.navbar .nav-link:hover{
-   color: #06823a;
-   border-color: #06823a;
+   color: #0dba4b;
+   border-color: #0dba4b;
+}
+.courseBody{
+  padding: 70px 15px;
+  background: #f0f0f0;
+  min-height: calc(100vh - 55px);
+}
+.card{
+  width: 280px;
+  margin: 15px;
+  padding: 0;
+  box-shadow: 0 1px 13px #b8b8b8;
+}
+.card-title{
+  color: #797979;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+}
+.card-img, .card-img-top{
+  height: 150px;
+}
+.cardBtn{
+  border: 2px solid transparent;
+  background: #0dba4b;
+  color: #fff;
+}
+.cardBtn:hover{
+  border: 2px solid #0dba4b;
+  color: #0dba4b;
+  background: #fff;
 }
