@@ -25,7 +25,7 @@ function App() {
     {
       id : 3,
       courseTitle : ' Python Full Stack Development',
-      img : "https://www.guvi.in/blog/wp-content/uploads/2024/08/Data-Science-vs-Computer-Science.webp"
+      img : "https://www.guvi.in/blog/wp-content/uploads/2024/08/Best-Programming-Languages-for-AI.webp"
     }
   ]
 
@@ -38,7 +38,7 @@ function App() {
     {
       id : 5,
       courseTitle : ' Data Engineering Course with Bigdata and Hadoop',
-      img : "https://www.guvi.in/blog/wp-content/uploads/2023/11/Devops-best-practices.png"
+      img : "https://www.guvi.in/blog/wp-content/uploads/2024/08/Generative-AI-Apps-to-Boost-Your-Productivity.webp"
     },
     {
       id :6,
@@ -50,7 +50,7 @@ function App() {
     {
       id : 7,
       courseTitle : 'Cybersecurity Vs Ethical Hacking: Beginner',
-      img : "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-600x314.png"
+      img : "https://www.guvi.in/blog/wp-content/uploads/2024/08/What-is-Generative-AI.webp"
     },
     {
       id : 8,
