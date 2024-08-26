@@ -1,0 +1,18 @@
+.navbar{
+  border-bottom: 1px solid #e7e4e4;
+  box-shadow: 0px 1px 6px #d7d7d7;
+  padding: 0;
+  font-size: 14px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.navbar .nav-link{
+  color: #a4a4a4;
+  font-weight: 500;
+  padding: 15px 20px !important;
+  border-bottom: 3px solid transparent;
+}
+.navbar .nav-link.active,.navbar .nav-link:hover{
+   color: #06823a;
+   border-color: #06823a;
+}
